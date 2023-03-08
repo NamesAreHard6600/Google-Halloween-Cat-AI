@@ -1,0 +1,4 @@
+1.0.0: Inital Release:
+Some Documentation
+Some Optimization
+The next optimizations of making it better will be too small to be worth my time
