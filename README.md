@@ -12,3 +12,9 @@ If it's not working, here's how you might be able to fix the issue:
 
 ## Contact Me
 Email me at namesarehard6600@gmail.com or send me a message on discord @NamesAreHard#2501 if you have any questions, it's not perfect so please don't expect it to be. (:
+
+
+### PS
+This is what chat GPT thinks. Honestly, I wish I made this.
+
+![image](https://user-images.githubusercontent.com/109428297/228694162-eec95aa5-359d-4b3b-90fa-6dbefd2db38e.png)
